@@ -3,7 +3,7 @@
 ## Overview
 This is a Task Management Application where users can manage tasks in three categories: To-Do, In Progress, and Done. Users can add, edit, delete, and reorder tasks using a drag-and-drop interface. The application is fully responsive and supports real-time synchronization with MongoDB, ensuring that the task data is always up-to-date.
 
-##Sever Side Link : https://github.com/nirobahmed0298/Task-Management-Server
+## Sever Side Link : https://github.com/nirobahmed0298/Task-Management-Server
 
 ## Live Link
 - **Frontend (React + Vite)**: https://scic-task-management-system.netlify.app/
